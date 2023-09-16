@@ -1,0 +1,99 @@
+[15-Sep-2023 15:52:33 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_db_user'@'172.19.0.2' (using password: YES) in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:52:33 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_db_user'@'172.19.0.2' (using password: YES) in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:57:08 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_db_user'@'172.19.0.2' (using password: YES) in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:57:08 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_db_user'@'172.19.0.2' (using password: YES) in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:57:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_db_user'@'172.19.0.2' (using password: YES) in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:57:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_db_user'@'172.19.0.2' (using password: YES) in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:57:29 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:57:29 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:57:29 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:57:29 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:57:30 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:57:30 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:57:30 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:57:30 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:50 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:50 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:50 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:50 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:50 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:51 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:51 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:51 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:51 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:51 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 15:58:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 17:48:25 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Twenty_Twenty_One_Custom_Colors does not have a method "editor_custom_color_variables" in /var/www/html/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#1 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /var/www/html/wp-includes/script-loader.php(2409): do_action('enqueue_block_a...')
+#3 /var/www/html/wp-includes/class-wp-hook.php(310): wp_common_block_scripts_and_styles('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-includes/script-loader.php(2225): do_action('wp_enqueue_scri...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(310): wp_enqueue_scripts('')
+#8 /var/www/html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#9 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /var/www/html/wp-includes/general-template.php(3053): do_action('wp_head')
+#11 /var/www/html/wp-content/themes/twentytwentyone/header.php(20): wp_head()
+#12 /var/www/html/wp-includes/template.php(785): require_once('/var/www/html/w...')
+#13 /var/www/html/wp-includes/template.php(720): load_template('/var/www/html/w...', true, Array)
+#14 /var/www/html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#15 /var/www/html/wp-content/themes/twentytwentyone/index.php(17): get_header()
+#16 /var/www/html/wp-includes/template-loader.php(106): include('/var/www/html/w...')
+#17 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#18 /var/www/html/index.php(17): require('/var/www/html/w...')
+#19 {main}
+  thrown in /var/www/html/wp-includes/class-wp-hook.php on line 310
+[15-Sep-2023 20:34:38 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:34:38 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:34:43 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:36:05 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:36:06 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:38:07 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:51:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:52:48 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:52:49 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:52:50 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:52:53 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:52:55 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:55:10 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:55:12 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:55:14 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 20:59:34 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 21:02:10 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 21:02:12 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 21:02:13 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 21:02:14 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 21:06:59 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 21:13:14 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 21:13:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 21:13:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 21:13:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 21:13:20 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 21:13:21 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 21:13:22 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 21:13:23 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 21:14:12 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 22:49:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /var/www/html/wp-content/themes/flexcatering/functions.php:900
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(310): update_flag_and_telephone_info_by_language('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/general-template.php(3053): do_action('wp_head')
+#4 /var/www/html/wp-content/themes/flexcatering/header.php(32): wp_head()
+#5 /var/www/html/wp-includes/template.php(785): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-includes/template.php(720): load_template('/var/www/html/w...', true, Array)
+#7 /var/www/html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#8 /var/www/html/wp-content/themes/flexcatering/index.php(18): get_header()
+#9 /var/www/html/wp-includes/template-loader.php(106): include('/var/www/html/w...')
+#10 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#11 /var/www/html/index.php(17): require('/var/www/html/w...')
+#12 {main}
+  thrown in /var/www/html/wp-content/themes/flexcatering/functions.php on line 900

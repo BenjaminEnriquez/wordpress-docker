@@ -1,0 +1,35 @@
+{
+  // Enable Prettier for formatting
+  "editor.formatOnSave": true,
+
+  // Define formatting options for CSS and JS (Prettier)
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // Define formatting options for PHP (PHP Intelephense)
+  "php.validate.enable": true,
+  "phpfmt.enable": true,
+  "phpfmt.psr2": true,
+  "phpfmt.php56": true,
+  "phpfmt.php70": true,
+  "phpfmt.php71": true,
+  "phpfmt.php72": true,
+  "phpfmt.php73": true,
+  "phpfmt.php74": true,
+  "phpfmt.php80": true,
+
+  // Adjust other editor settings as needed
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on"
+}
