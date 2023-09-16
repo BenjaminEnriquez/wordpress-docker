@@ -14,8 +14,7 @@ Before you begin, ensure you have the following:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/wordpress-multitheme-docker.git
-   cd wordpress-multitheme-docker
+   clone the repo
    ```
 
 - docker build -t <theme-name>-image .
