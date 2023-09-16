@@ -1,4 +1,4 @@
-# Dockerized WordPress Setup with Multiple Custom Themes
+# Dockerized WordPress Setup by Benjamin Web Expert
 
 This repository provides a Docker Compose setup for running multiple instances of WordPress with custom themes. You can use this setup to develop and test different WordPress themes in isolated environments.
 
@@ -16,7 +16,5 @@ Before you begin, ensure you have the following:
    ```bash
    clone the repo
    ```
-
-- docker build -t <theme-name>-image .
 
 - docker-compose up -d
